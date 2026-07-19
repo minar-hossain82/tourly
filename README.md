@@ -4,7 +4,7 @@ Tourly is a modern and responsive travel landing page designed to showcase popul
 
 ## 🌐 Live Demo
 
-🔗 Add your live website link here
+🔗 https://minar-tourly.vercel.app/
 
 ## 📂 GitHub Repository
 
@@ -99,15 +99,6 @@ Or use VS Code Live Server.
 
 The goal of this project is to create a visually appealing and responsive travel landing page that showcases tour packages and destinations while providing users with an engaging browsing experience.
 
-## 🚀 Deployment
-
-The project is deployed on Vercel.
-
-To deploy your own version:
-
-1. Push the project to GitHub.
-2. Connect the repository to Vercel.
-3. Deploy the project with a single click.
 
 ## 👨‍💻 Author
 
@@ -115,7 +106,3 @@ To deploy your own version:
 
 - GitHub: https://github.com/minar-hossain82
 - LinkedIn: https://www.linkedin.com/in/minar-hossain-450820380
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
